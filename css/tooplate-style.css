@@ -474,6 +474,7 @@ b, strong {
 @media (max-width: 991px) {
   .full-screen {
     padding-bottom: 4rem;
+    
   }
 
   .color-mode {
@@ -482,6 +483,8 @@ b, strong {
 
   .about-image {
     margin-top: 4em;
+    width: 300px;
+   
   }
 
   .mobile-mt-2,
